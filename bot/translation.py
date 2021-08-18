@@ -5,12 +5,13 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>Am Just A assistant....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+Ada ni e group join chyada @chat_with_gopuzzedit .E group join chytha pine ni Vara group join chyanda athe editing materialum E group kidm eshta patta kuda kudiko kuda nammal unde Any other help contact owner: @GOPUZZ_EDIT02
+💞💞💞💞💞💞💞💞💞💞💞💞💞
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@chat_with_gopuzzedit
 </i>"""    
     
     HELP_TEXT = """
@@ -43,12 +44,12 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@chat_with_gopuzzedit
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/GOPUZZ_EDIT02">GOPUZZ_EDIT02</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
