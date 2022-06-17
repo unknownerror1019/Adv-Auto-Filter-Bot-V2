@@ -7,8 +7,9 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A assistant....😉
 
-Ada ni e group join chyada @chat_with_gopuzzedit .E group join chytha pine ni Vara group join chyanda athe editing materialum E group kidm eshta patta kuda kudiko kuda nammal unde Any other help contact owner: @GOPUZZ_EDIT02
-💞💞💞💞💞💞💞💞💞💞💞💞💞
+Iam A Advance Auto Filter Bot Made By @Gopuzz_Edit02 Contact For More Details 😼🔥
+
+
 
 For More Details Click Help Button Below..
 @chat_with_gopuzzedit
@@ -55,5 +56,5 @@ For More Details Click Help Button Below..
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+
 """
